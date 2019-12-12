@@ -8,6 +8,7 @@
 
 # do not ignore these files
 !.gitignore
+!LICENSE
 !*.sln
 !*.cs
 !*.csproj

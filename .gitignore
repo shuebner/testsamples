@@ -1,0 +1,13 @@
+# ignore all files, but not directories
+*
+!*/
+
+# ignore build directories
+**/obj
+**/bin
+
+# do not ignore these files
+!.gitignore
+!*.sln
+!*.cs
+!*.csproj

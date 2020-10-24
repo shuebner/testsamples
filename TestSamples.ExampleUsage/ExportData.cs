@@ -29,6 +29,7 @@ namespace TestSamples.ExampleUsage
     {
         public string Name { get; set; }
         public string Registration { get; set; }
+        public DateTime FoundedAtDate { get; set; }
         public OrganisationFunction Function { get; set; }
     }
 
